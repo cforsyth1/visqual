@@ -1,0 +1,19 @@
+{
+    "name": "instantlydigital/visqual",
+    "description": "A Laravel package that allows non-technical users to generate custom queries and reports based on models and their relations",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Caitlin Forsyth",
+            "email": "caitlinsophia25@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "InstantlyDigital\\Visqual\\VisqualServiceProvider"
+            ]
+        }
+    }
+}
